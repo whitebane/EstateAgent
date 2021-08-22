@@ -1,0 +1,11 @@
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\bin\Debug\Estate Agent.exe.config
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\bin\Debug\Estate Agent.exe
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\bin\Debug\Estate Agent.pdb
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\obj\Debug\Estate Agent.csproj.AssemblyReference.cache
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\obj\Debug\Estate_Agent.Form1.resources
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\obj\Debug\Estate_Agent.Properties.Resources.resources
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\obj\Debug\Estate Agent.csproj.GenerateResource.cache
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\obj\Debug\Estate Agent.csproj.CoreCompileInputs.cache
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\obj\Debug\Estate Agent.exe
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\obj\Debug\Estate Agent.pdb
+C:\Users\egede\source\repos\Estate Agent\Estate Agent\obj\Debug\Estate_Agent.Form2.resources
